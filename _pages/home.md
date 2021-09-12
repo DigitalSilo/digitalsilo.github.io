@@ -14,6 +14,9 @@ header:
     - label: "Sign up"
       url: "/signup"
 excerpt: "The excerpt is here" 
+intro:
+  - excerpt: This is the introduction to the product
 ---
+{% include feature_row id="intro" type="center" %}
 
 This is the home page.

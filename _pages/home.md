@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The title of product"
+title: "digital://silo"
 author_profile: false
 layout: splash
 classes:

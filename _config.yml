@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Digital Silo, a scalable serverless platform on Azure"
+title                    : "Digital Silo, a scalable serverless platform"
 title_separator          : "|"
-subtitle                 : "An asynchronous, event-driven and scalable serverless platform on Azure"
+subtitle                 : "Asynchronous, Event-driven, Azure-ready"
 name                     : "Arash Sabet"
 description              : "Digital Silo collects stateless tasks, aka Grains, and executes them in an asynchronous scalable serverless environment on the Microsoft Azure Cloud technology. It accelerates the steps of making an application serverless-ready by eliminating the burden of infrastructure-driven implementation and letting developers concentrate on coding their business logic."
 url                      : "https://digitalsilo.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DigitalSilo/digitalsilo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/logo_transparent240x240.png"
+logo                     : "/assets/images/logos/logo_transparent_website.png"
 masthead_title           : #digital://silo
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200

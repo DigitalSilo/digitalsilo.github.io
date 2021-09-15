@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "digital://silo"
+title: "Digital Silo"
 author_profile: false
 layout: splash
 classes:

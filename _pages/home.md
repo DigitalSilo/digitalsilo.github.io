@@ -7,7 +7,7 @@ classes:
     - landing
     - wide
 header:
-  #overlay_color: "#000"
+  overlay_color: "#000"
   overlay_filter: "0.125"
   overlay_image: /assets/images/splash/splashhomepage.jpg
   actions:

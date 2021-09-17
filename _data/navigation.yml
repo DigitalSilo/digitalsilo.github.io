@@ -5,8 +5,8 @@ main:
     url: /docs/ 
   - title: "Pricing"
     url: /pricing/  
-  - title: "About"
-    url: /about/
+  - title: "Getting started"
+    url: /start/
   - title: "Contact"
     url: /contact/
   - title: "Blog"

@@ -11,8 +11,8 @@ header:
   overlay_filter: "0.125"
   overlay_image: /assets/images/splash/splashhomepage.jpg
   actions:
-    - label: "Sign up"
-      url: "/signup"
+    - label: "Getting started"
+      url: "/start"
 excerpt: "The excerpt is here" 
 intro:
   - excerpt: This is the introduction to the product

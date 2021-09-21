@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Digital Silo, a task-driven serverless platform"
+title                    : "A task-driven serverless platform"
 title_separator          : "|"
 subtitle                 : "Asynchronous, Scalable, Algorithm-agnostic, Azure-ready"
 name                     : "Umplify Technologies Inc"

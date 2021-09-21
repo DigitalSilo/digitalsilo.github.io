@@ -17,24 +17,30 @@ excerpt: "A mighty serverless solution on Azure to run tasks asynchrnously. Depl
 intro:
   - excerpt: Digital Silo executes stateless tasks, aka Grains in an asynchronous scalable serverless environment. It accelerates the steps of making an application serverless-ready by helping developers concentrate on business logic only.
 feature_row:
-  - image_path: /assets/images/splash/feature1.jpg
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/splash/feature2.jpg
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/splash/developer-250.png
+    title: Develop the grains
+    excerpt: Download our free **.NET SDK** to implement your business logic tasks aka grains
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
-  - image_path: /assets/images/splash/feature3.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/splash/deploy-250.png
+    title: Provision the Silo
+    excerpt: Download and run the build pipeline to deploy Digital Silo to your Azure subscription
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
+  - image_path: /assets/images/splash/upload-250.png
+    title: Deploy the grains
+    excerpt: Upload your implmemneted .NET grains to Digital Silo's provisioned Azure storage
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--secondar"
+  - image_path: /assets/images/splash/download-250.png
+    title: Fire up the Silo
+    excerpt: Execute the release pipeline to deploy the infrastructure binaries and make the grains operational
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--secondar"    
 
 feature_row_left1:
   - image_path: /assets/images/fast.png

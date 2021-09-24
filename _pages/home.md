@@ -54,19 +54,43 @@ feature_row_right1:
 
 feature_row_left2:
   - image_path: /assets/images/fast.png
-    title: Digital Silo's language is well-known
-    excerpt: Digital Silo's SDK is in .NET, and that's a popular framework to put a Digital Silo grain together in favorite programming languages like C# or VB.NET.
+    title: It's RESTful, integration made easy!
+    excerpt: Digital Silo collects grains' payloads via a single RESTful Web API POST action and communicates the processing results asynchronously via web sockets. The client applications developed in any language, e.g., typescript, C#, etc., need to integrate these two communication features to send JSON payloads and receive asynchronous responses.
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary" 
+
+feature_row_right2:
+  - image_path: /assets/images/fast.png
+    title: We've got .NET developers' back
+    excerpt: Digital Silo's SDK is in .NET, and that's a popular framework to put together a Digital Silo grain in developers' favorite programming languages like C# and VB.NET. The SDK provides a robust and easy pattern to follow to implement the business logic in a grain. The entire Digital Silo was built using C#!
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"   
 
-feature_row_right2:
+feature_row_left3:
   - image_path: /assets/images/mighty.png
-    title: Fire up the Silo
-    excerpt: Execute the release pipeline to deploy the infrastructure binaries and make the grains operational
+    title: Submit and forget!
+    excerpt: Just have the grains activated by submitting their respective payloads aka requests in JSON format via a single entry point. Digital Silo will notify your client application promptly once the grain processing result becomes available.
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary"    
+
+feature_row_right3:
+  - image_path: /assets/images/fast.png
+    title: Run grains randomly, in queue or deferred
+    excerpt: Digital Silo facilitates running grains in any order, or lines them up one by one when needed, or defers their execution to another time or day! It depends on how the grains' JSON payloads are declared and the silo figures out their execution pattern. Digital Silo can run grains without any specific order, while queue another batch, or defer another set's execution; all these organizations are independent of each other.
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"     
+
+feature_row_left4:
+  - image_path: /assets/images/fast.png
+    title: It's secure
+    excerpt: DAll components and tiers of Digital Silo, starting from the client application, are secured by Microsoft Azure's Active Directory system. Digital Silo rejects requests made without a valid authorization token to ensure that the trusted origins are served only.
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"     
   
 # feature_row_techs:
 #   - image_path: assets/images/splash/azure100x100.png
@@ -82,6 +106,9 @@ feature_row_right2:
 {% include feature_row id="feature_row_right1" type="right" %}
 {% include feature_row id="feature_row_left2" type="left" %}
 {% include feature_row id="feature_row_right2" type="right" %}
+{% include feature_row id="feature_row_left3" type="left" %}
+{% include feature_row id="feature_row_right3" type="right" %}
+{% include feature_row id="feature_row_left4" type="left" %}
 {% include feature_row %}
 
 This is the home page.

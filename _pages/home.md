@@ -39,8 +39,8 @@ feature_row:
 feature_row_left1:
   - image_path: /assets/images/fast.png
     title: Digital Silo is mighty!
-    excerpt: Digital Silo harnesses the power of the Azure cloud to supercharge the execution of tasks and business logic encapsulated and submitted in grains. It can well scale-out when additional horsepower is needed or provide a close to real-time processing time and throughput. Digital Silo can accommodate hundreds or thousands of grains simultaneously without any compromise!
-    url: "#test-link"
+    excerpt: Digital Silo harnesses the power of the Azure cloud to supercharge the execution of the business logic encapsulated in submitted grains. It can well scale-out when additional horsepower is needed or provide a close to real-time processing time and throughput. Digital Silo can accommodate hundreds or thousands of grains simultaneously without any compromise!
+    url: digital-silo-is-mighty
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -48,7 +48,7 @@ feature_row_right1:
   - image_path: /assets/images/mighty.png
     title: Digital Silo is serverless
     excerpt: Whatever Digital Silo does is not running on a dedicated server or server farm. The sky is the limit, and the grain processing kernel resides on serverless infrastructure. What happens behind the scene stays there without getting developers involved with managing that spectrum.
-    url: "#test-link"
+    url: digital-silo-is-serverless
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -56,7 +56,7 @@ feature_row_left2:
   - image_path: /assets/images/fast.png
     title: It's RESTful, integration made easy!
     excerpt: Digital Silo collects grains' payloads via a single RESTful Web API POST action and communicates the processing results asynchronously via web sockets. The client applications developed in any language, e.g., typescript, C#, etc., need to integrate these two communication features to send JSON payloads and receive asynchronous responses.
-    url: "#test-link"
+    url: digital-silo-is-restful
     btn_label: "Read More"
     btn_class: "btn--primary" 
 
@@ -72,15 +72,15 @@ feature_row_left3:
   - image_path: /assets/images/mighty.png
     title: Submit and forget!
     excerpt: Just have the grains activated by submitting their respective payloads aka requests in JSON format via a single entry point. Digital Silo will notify your client application promptly once the grain processing result becomes available.
-    url: "#test-link"
+    url: digital-silo-submit-forget
     btn_label: "Read More"
     btn_class: "btn--primary"    
 
 feature_row_right3:
   - image_path: /assets/images/fast.png
-    title: Run grains randomly, in queue or deferred
+    title: Run in a random order, queued or deferred
     excerpt: Digital Silo facilitates running grains in any order, or lines them up one by one when needed, or defers their execution to another time or day! It depends on how the grains' JSON payloads are declared and the silo figures out their execution pattern. Digital Silo can run grains without any specific order, while queue another batch, or defer another set's execution; all these organizations are independent of each other.
-    url: "#test-link"
+    url: digital-silo-grain-processing
     btn_label: "Read More"
     btn_class: "btn--primary"     
 
@@ -88,7 +88,7 @@ feature_row_left4:
   - image_path: /assets/images/fast.png
     title: It's secure
     excerpt: DAll components and tiers of Digital Silo, starting from the client application, are secured by Microsoft Azure's Active Directory system. Digital Silo rejects requests made without a valid authorization token to ensure that the trusted origins are served only.
-    url: "#test-link"
+    url: digital-silo-is-secure
     btn_label: "Read More"
     btn_class: "btn--primary"     
   

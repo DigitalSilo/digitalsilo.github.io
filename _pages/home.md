@@ -78,8 +78,8 @@ feature_row_left3:
 
 feature_row_right3:
   - image_path: /assets/images/fast.png
-    title: Run in a random order, queued or deferred
-    excerpt: Digital Silo facilitates running grains in any order, or lines them up one by one when needed, or defers their execution to another time or day! It depends on how the grains' JSON payloads are declared and the silo figures out their execution pattern. Digital Silo can run grains without any specific order, while queue another batch, or defer another set's execution; all these organizations are independent of each other.
+    title: Flexible performance
+    excerpt: Digital Silo is a collection of independent tasks. It is flexible enough to accommodate the fulfillment instructions by facilitating running grains in any order, lining them up, or deferring each grain's process to the future.
     url: digital-silo-grain-processing
     btn_label: "Read More"
     btn_class: "btn--primary"     

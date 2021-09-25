@@ -1,7 +1,7 @@
 ---
 permalink: /digital-silo-is-restful/
-title: "Digital Silo is mighty"
+title: "Integration with Digital Silo"
 layout: splash
 ---
 
-## Digital Silo is RESTful
+## Digital Silo's integration technology is RESTful

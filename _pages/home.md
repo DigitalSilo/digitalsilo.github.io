@@ -55,20 +55,12 @@ feature_row_right1:
 feature_row_left2:
   - image_path: /assets/images/fast.png
     title: It's RESTful, integration made easy!
-    excerpt: Digital Silo collects grains' payloads via a single RESTful Web API POST action and communicates the processing results asynchronously via web sockets. The client applications developed in any language, e.g., typescript, C#, etc., need to integrate these two communication features to send JSON payloads and receive asynchronous responses.
+    excerpt: Digital Silo's integration gate is a simple RESTful Web API that allows developers to integrate their applications regardless of their adopted coding technology to submit or terminate grains effortlessly. Responses are communicated back over WebSockets asynchronously as soon as they become ready.
     url: digital-silo-is-restful
     btn_label: "Read More"
-    btn_class: "btn--primary" 
+    btn_class: "btn--primary"  
 
 feature_row_right2:
-  - image_path: /assets/images/fast.png
-    title: We've got .NET developers' back
-    excerpt: Digital Silo's SDK is in .NET, and that's a popular framework to put together a Digital Silo grain in developers' favorite programming languages like C# and VB.NET. The SDK provides a robust and easy pattern to follow to implement the business logic in a grain. The entire Digital Silo was built using C#!
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
-
-feature_row_left3:
   - image_path: /assets/images/mighty.png
     title: Submit and forget!
     excerpt: Just have the grains activated by submitting their respective payloads aka requests in JSON format via a single entry point. Digital Silo will notify your client application promptly once the grain processing result becomes available.
@@ -76,7 +68,7 @@ feature_row_left3:
     btn_label: "Read More"
     btn_class: "btn--primary"    
 
-feature_row_right3:
+feature_row_left3:
   - image_path: /assets/images/fast.png
     title: Flexible performance
     excerpt: Digital Silo is a collection of independent tasks. It is flexible enough to accommodate the fulfillment instructions by facilitating running grains in any order, lining them up, or deferring each grain's process to the future.
@@ -84,7 +76,7 @@ feature_row_right3:
     btn_label: "Read More"
     btn_class: "btn--primary"     
 
-feature_row_left4:
+feature_row_right3:
   - image_path: /assets/images/fast.png
     title: It's secure
     excerpt: DAll components and tiers of Digital Silo, starting from the client application, are secured by Microsoft Azure's Active Directory system. Digital Silo rejects requests made without a valid authorization token to ensure that the trusted origins are served only.
@@ -108,7 +100,6 @@ feature_row_left4:
 {% include feature_row id="feature_row_right2" type="right" %}
 {% include feature_row id="feature_row_left3" type="left" %}
 {% include feature_row id="feature_row_right3" type="right" %}
-{% include feature_row id="feature_row_left4" type="left" %}
 {% include feature_row %}
 
 This is the home page.

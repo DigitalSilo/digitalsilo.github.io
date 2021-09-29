@@ -36,13 +36,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--secondar"   
 
-feature_row_left1:
-  - image_path: /assets/images/fast.png
-    title: Digital Silo is mighty!
-    excerpt: Digital Silo harnesses the power of the Azure cloud to supercharge the execution of the business logic encapsulated in submitted grains. It can well scale-out when additional horsepower is needed or provide a close to real-time processing time and throughput. Digital Silo can accommodate hundreds or thousands of grains simultaneously without any compromise!
-    url: digital-silo-is-mighty
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row_right1:
   - image_path: /assets/images/mighty.png
@@ -63,26 +56,19 @@ feature_row_left2:
 feature_row_right2:
   - image_path: /assets/images/mighty.png
     title: Submit and forget!
-    excerpt: Just have the grains activated by submitting their respective payloads aka requests in JSON format via a single entry point. Digital Silo will notify your client application promptly once the grain processing result becomes available.
+    excerpt: Just activate the grains by submitting their respective payloads, aka requests in JSON format, via a single entry point. Digital Silo will notify your client application promptly once the grain processing result becomes available.
     url: digital-silo-submit-forget
     btn_label: "Read More"
     btn_class: "btn--primary"    
 
 feature_row_left3:
   - image_path: /assets/images/fast.png
-    title: Flexible performance
+    title: Flexibility and security are the key
     excerpt: Digital Silo is a collection of independent tasks. It is flexible enough to accommodate the fulfillment instructions by facilitating running grains in any order, lining them up, or deferring each grain's process to the future.
     url: digital-silo-grain-processing
     btn_label: "Read More"
     btn_class: "btn--primary"     
-
-feature_row_right3:
-  - image_path: /assets/images/fast.png
-    title: It's secure
-    excerpt: DAll components and tiers of Digital Silo, starting from the client application, are secured by Microsoft Azure's Active Directory system. Digital Silo rejects requests made without a valid authorization token to ensure that the trusted origins are served only.
-    url: digital-silo-is-secure
-    btn_label: "Read More"
-    btn_class: "btn--primary"     
+ 
   
 # feature_row_techs:
 #   - image_path: assets/images/splash/azure100x100.png
@@ -94,12 +80,10 @@ feature_row_right3:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row_left1" type="left" %}
 {% include feature_row id="feature_row_right1" type="right" %}
 {% include feature_row id="feature_row_left2" type="left" %}
 {% include feature_row id="feature_row_right2" type="right" %}
 {% include feature_row id="feature_row_left3" type="left" %}
-{% include feature_row id="feature_row_right3" type="right" %}
 {% include feature_row %}
 
 This is the home page.

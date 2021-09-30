@@ -52,6 +52,14 @@ feature_row_left2:
     url: digital-silo-is-restful
     btn_label: "Read More"
     btn_class: "btn--primary"  
+   
+feature_row_left2:
+  - image_path: /assets/images/fast.png
+    title: Easy-to-develop grains
+    excerpt: A grain is a stateless component that encapsulates a specific business logic that runs throughout Digital Silo. Introducing a grain is as simple as following a few key steps.
+    url: digital-silo-grain-development
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
 
 feature_row_right2:
   - image_path: /assets/images/mighty.png
@@ -63,7 +71,7 @@ feature_row_right2:
 
 feature_row_left3:
   - image_path: /assets/images/fast.png
-    title: Flexibility and security are the key
+    title: Flexible and secure
     excerpt: Digital Silo is a collection of independent tasks. It is flexible enough to accommodate the fulfillment instructions by facilitating running grains in any order, lining them up, or deferring each grain's process to the future.
     url: digital-silo-grain-processing
     btn_label: "Read More"

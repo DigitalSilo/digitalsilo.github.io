@@ -19,23 +19,22 @@ intro:
 feature_row:
   - image_path: /assets/images/splash/developer.svg
     title: 1. Develop the grains
-    excerpt: Download our free **.NET SDK** to implement your business logic tasks aka grains
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--secondar"
+    excerpt: Download our free **.NET SDK** to implement your business logic tasks aka grains.
+    ## url: "#test-link"
+    ## btn_label: "Read More"
+    ## btn_class: "btn--secondar"
   - image_path: /assets/images/splash/deploy.svg
     title: 2. Provision the Silo
-    excerpt: Download and run the build pipeline to deploy Digital Silo to your Azure subscription
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--secondar"
+    excerpt: Download and run the build pipeline to deploy Digital Silo to your Azure subscription. **You need to do it only once!**
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--secondar"
   - image_path: /assets/images/splash/launch.svg
     title: 3. Deploy the grains
-    excerpt: Upload your implemented .NET grains to your Digital Silo's provisioned Azure storage
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--secondar"   
-
+    excerpt: Upload your implemented .NET grains to your Digital Silo's provisioned Azure storage.
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--secondar"   
 
 feature_row_right1:
   - image_path: /assets/images/cloud.svg
@@ -99,6 +98,17 @@ feature_row_left4:
 {% include feature_row id="feature_row_left2" type="left" %}
 {% include feature_row id="feature_row_right3" type="right" %}
 {% include feature_row id="feature_row_left4" type="left" %}
+
+# Scalable . Abstract . Modern
+
+Digital Silo helps companies using .NET to build scalable, modern and Azure-ready serverless applications. It eliminates the burden of infrastructure-driven implementation by abstracting it and lets developers concentrate on constructing their business logic. 
+
+## Modern .NET coding pattern
+
+Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors.
+
+# Only three steps, or maybe two!
+
 {% include feature_row %}
 
-This is the home page.
+![Azure](../assets/images/splash/azure100x100.png) ![NET](../assets/images/splash/NET_Logo.png) ![Angular](../assets/images/splash/angular100.png) ![Terraform](../assets/images/splash/terraform_logo.png) ![Typescript](../assets/images/splash/ts-logo-100.png)

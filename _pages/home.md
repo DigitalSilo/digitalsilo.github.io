@@ -80,6 +80,11 @@ feature_row_left4:
   - image_path: /assets/images/secure.svg
     title: It's Secure
     excerpt: All components and tiers of Digital Silo, starting from the client application, are secured by Microsoft Azure's Active Directory system. Digital Silo rejects requests made without a valid authorization token to ensure that the trusted origins are served only.
+
+feature_row_right5:
+  - image_path: /assets/images/controlpanel.svg
+    title: Watch grains' progress
+    excerpt: Digital Silo keeps reporting the progress status of grains throughout WebSockets. Replicate [this Digital Silo's UI Github repository](https://github.com/DigitalSilo/digitalsiloui) and start watching how your grains' progress unfolds in real-time!
  
   
 # feature_row_techs:
@@ -98,6 +103,7 @@ feature_row_left4:
 {% include feature_row id="feature_row_left2" type="left" %}
 {% include feature_row id="feature_row_right3" type="right" %}
 {% include feature_row id="feature_row_left4" type="left" %}
+{% include feature_row id="feature_row_right5" type="right" %}
 
 # Scalable . Abstract . Modern
 

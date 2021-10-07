@@ -111,10 +111,12 @@ Digital Silo helps companies using .NET to build scalable, modern and Azure-read
 
 ## Modern .NET coding pattern
 
-Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors.
+Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors and inject dependencies.
 
-# Only three steps, or maybe two!
+# Only three steps, or maybe two
 
 {% include feature_row %}
 
-![Azure](../assets/images/splash/azure100x100.png) ![NET](../assets/images/splash/NET_Logo.png) ![Angular](../assets/images/splash/angular100.png) ![Terraform](../assets/images/splash/terraform_logo.png) ![Typescript](../assets/images/splash/ts-logo-100.png)
+
+
+![](../assets/images/technologies2.png)

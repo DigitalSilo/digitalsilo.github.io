@@ -13,7 +13,7 @@ header:
   actions:
     - label: "Getting started"
       url: "/start"
-excerpt: "A mighty serverless solution on Azure to run tasks asynchrnously. Deploy yours just in minutes!" 
+excerpt: "A mighty serverless solution on Azure to run tasks asynchrnously. Provision yours now!" 
 intro:
   - excerpt: Digital Silo executes stateless tasks, aka Grains in an asynchronous scalable serverless environment. It accelerates the steps of making an application serverless-ready by helping developers concentrate on business logic only.
 feature_row:
@@ -83,7 +83,7 @@ feature_row_left4:
 
 feature_row_right5:
   - image_path: /assets/images/controlpanel.svg
-    title: Watch grains' progress
+    title: Visual progress status
     excerpt: Digital Silo keeps reporting the progress status of grains throughout WebSockets. Replicate [this Digital Silo's UI Github repository](https://github.com/DigitalSilo/digitalsiloui) and start watching how your grains' progress unfolds in real-time!
  
   
@@ -105,18 +105,22 @@ feature_row_right5:
 {% include feature_row id="feature_row_left4" type="left" %}
 {% include feature_row id="feature_row_right5" type="right" %}
 
-# Scalable . Abstract . Modern
+# Scalable . Abstract . Modern 
+{: .text-center}
 
-Digital Silo helps companies using .NET to build scalable, modern and Azure-ready serverless applications. It eliminates the burden of infrastructure-driven implementation by abstracting it and lets developers concentrate on constructing their business logic. 
+Digital Silo helps companies using .NET to build scalable, modern and Azure-ready serverless applications. It eliminates the burden of infrastructure-driven implementation by abstracting it. Digital Silo lets developers concentrate on constructing their business logic code, not the infrastructure.
+{: .text-center}
 
-## Modern .NET coding pattern
-
-Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors and inject dependencies.
-
-# Only three steps, or maybe two
+# Only three steps, or maybe two!
+{: .text-center}
+You are just a few steps away from scaling your .NET application by Digital Silo.
+{: .text-center}
 
 {% include feature_row %}
 
+![](../assets/images/technologies2.png){: .align-center}
 
-
-![](../assets/images/technologies2.png)
+## Carry on your modern .NET coding pattern
+{: .text-center}
+Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors and inject dependencies.
+{: .text-center}

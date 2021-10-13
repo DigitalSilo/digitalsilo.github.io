@@ -1,12 +1,10 @@
 main:
-  - title: "Product"  
-    url: /product/
   - title: "Docs"
-    url: /docs/ 
+    url: https://github.com/DigitalSilo/digitalsilodocs
   - title: "Pricing"
     url: /pricing/  
   - title: "Getting started"
-    url: /start/
+    url: /get-started/
   - title: "Contact"
     url: /contact/
   - title: "Blog"

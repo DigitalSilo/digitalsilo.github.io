@@ -19,4 +19,4 @@ Happy Coding!
 
 ## Production environment
 
-Please send us an email at `start@digitalsilo.io` to obtain the Terraform script and Azure DevOps pipeline's YAML file to run Digital Silo on your Azure subscription.
+Please send us an email to `start@digitalsilo.io` to obtain the Terraform script and Azure DevOps pipeline's YAML file to provision Digital Silo on your Azure subscription. Should you wish to customize Digital Silo's infrastructure, we will try to accommodate it if feasible.

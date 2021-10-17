@@ -1,6 +1,6 @@
 ---
-permalink: /pricing/
-title: "Digital Silo pricing"
+permalink: /plans/
+title: "Digital Silo plans"
 ---
 
 ## Buy Digital Silo

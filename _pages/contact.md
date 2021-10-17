@@ -15,4 +15,4 @@ Please send us an email to start@digitalsilo.io, and let’s get to know each ot
   
 We will respond to your email within one business day by making a phone call or writing back to you. 
 
-Digital Silo is a product provided by Umplify Technology Inc. A Canadian company located in Toronto, Canada. Meanwhile, please feel free to take a look at [Umplify Inc](https://umplify.com)’s website.
+Digital Silo is a product provided by Umplify Technology Inc, a Canadian company located in Toronto, Canada. Meanwhile, please feel free to take a look at [Umplify Inc](https://umplify.com)’s website.

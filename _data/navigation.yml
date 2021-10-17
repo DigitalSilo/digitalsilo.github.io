@@ -1,8 +1,8 @@
 main:
   - title: "Docs"
     url: https://github.com/DigitalSilo/digitalsilodocs
-  - title: "Pricing"
-    url: /pricing/  
+  - title: "Plans"
+    url: /plans/  
   - title: "Getting started"
     url: /get-started/
   - title: "Contact"

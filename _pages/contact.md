@@ -5,7 +5,7 @@ permalink: /contact/
 layout: single
 ---
 
-Please send us an email to start@digitalsilo.io, and let’s get to know each other by providing us the following pieces of info:
+Please send us an email to `start@digitalsilo.io`, and let’s get to know each other by providing us the following pieces of info:
 
 * Your full name
 * Your email address

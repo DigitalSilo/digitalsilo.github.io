@@ -120,7 +120,7 @@ You are just a few steps away from scaling your .NET application by Digital Silo
 
 ![](../assets/images/technologies2.png){: .align-center}
 
-## Carry on your modern .NET coding pattern
+## Keep up your modern .NET coding pattern
 {: .text-center}
 Digital Silo's base grain processor supports modern coding patterns, and developers can use Microsoft's dependency injection container to develop their grains' processors and inject dependencies.
 {: .text-center}

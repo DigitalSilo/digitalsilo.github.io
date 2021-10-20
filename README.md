@@ -1,8 +1,10 @@
 # Digital Silo
 
-![Digital Silo Logo](_site/assets/images/logos/logo.png)
+![Digital Silo Logo](https://digitalsilo.io/assets/images/logos/logo.png)
 
-Welcome to Digital Silo's website's source code. Digital Silo executes stateless tasks, aka Grains in an asynchronous scalable serverless environment. It accelerates the steps of making an application serverless-ready by helping developers concentrate on business logic only.
+Welcome to Digital Silo's website's source code. 
+
+Digital Silo executes stateless tasks, aka Grains in an asynchronous scalable serverless environment. It accelerates the steps of making an application serverless-ready by helping developers concentrate on business logic only.
 
 Visit the following websites to learn about this amazing product:
 
@@ -19,3 +21,6 @@ Visit the following websites to learn about this amazing product:
 ## Open source credits
 
 This website's aesthetic is powered by [Minimal Mistake theme](https://mmistakes.github.io/minimal-mistakes/). Thanks to [Michael Rose](https://github.com/mmistakes) for making it available to the community.
+
+## Got questions?
+Please send us an email to start@digitalsilo.io.

@@ -1,6 +1,6 @@
 main:
   - title: "Documentation"
-    url: https://github.com/DigitalSilo/digitalsilodocs
+    url: /digitalsilodocs/
   - title: "Plans"
     url: /plans/  
   - title: "Getting started"

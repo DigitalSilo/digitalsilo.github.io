@@ -7,20 +7,20 @@ title: "Digital Silo plans"
 
 | |  Development |  Silver Plan | Gold Plan  | Enterprise Plan  |
 |:--|:-:|:-:|:-:|:-:|
-| Unlimited grains | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Secured by Digital Silo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Access to SDK's source code on GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Access to examples' source code on GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Access to UI client app's source code on GitHub | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Digital Silo grain coding support by community | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Docker container [^1] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Digital Silo grain coding support by email and phone | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Provisioned on Azure | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Production support by email and phone | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Customizeable infrastructure | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Commercial use | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Unlimited grains | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Secured by Digital Silo | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Access to SDK's source code on GitHub | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Access to examples' source code on GitHub | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Access to UI client app's source code on GitHub | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Digital Silo grain coding support by community | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Docker container [^1] | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Digital Silo grain coding support by email and phone | ![delete](/assets/images/delete24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Provisioned on Azure | ![delete](/assets/images/delete24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Production support by email and phone | ![delete](/assets/images/delete24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Customizeable infrastructure | ![delete](/assets/images/delete24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
+| Commercial use | ![delete](/assets/images/delete24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) | ![checkmark](/assets/images/checkmark24x24.png) |
 | Max number of production support instances per month | **0** | **4** | **8** | **Unlimited** |
-| Managed by Digital Silo team [^2] | :x: | :x: | Available | Available |
+| Managed by Digital Silo team [^2] | ![delete](/assets/images/delete24x24.png) | ![delete](/assets/images/delete24x24.png) | Available | Available |
 | Price per Digital Silo instance per month *(USD)* [^3][^4] | Free | $299 | $499 | Please contact |
 | Price per Digital Silo instance per year *(USD)* [^3][^4] | Free | $2,499 | $4,199 | Please contact |
 

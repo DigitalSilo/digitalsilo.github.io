@@ -1,27 +1,21 @@
-# Minimal Mistakes remote theme starter
+# Digital Silo
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+![Digital Silo Logo](_site/assets/images/logos/logo.png)
 
-Contains basic configuration to get you a site with:
+Welcome to Digital Silo's website's source code. Digital Silo executes stateless tasks, aka Grains in an asynchronous scalable serverless environment. It accelerates the steps of making an application serverless-ready by helping developers concentrate on business logic only.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Visit the following websites to learn about this amazing product:
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+* Digital Silo's website at [https://digitalsilo.io](https://digitalsilo.io) which is powered by this Github repository
 
----
+* Digital Silo's technical documentation available at [http://localhost:4000/digitalsilodocs/](http://localhost:4000/digitalsilodocs/)
+  
+* Digital Silo's UI client app available at [https://github.com/DigitalSilo/digitalsiloui](https://github.com/DigitalSilo/digitalsiloui)
 
-## Troubleshooting
+* Digital Silo's .NET SDK available at [https://github.com/DigitalSilo/digitalsilosdk](https://github.com/DigitalSilo/digitalsilosdk)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+* Digital Silo grain examples available at [https://github.com/DigitalSilo/digitalsiloexamples](https://github.com/DigitalSilo/digitalsiloexamples)
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Open source credits
+
+This website's aesthetic is powered by [Minimal Mistake theme](https://mmistakes.github.io/minimal-mistakes/). Thanks to [Michael Rose](https://github.com/mmistakes) for making it available to the community.

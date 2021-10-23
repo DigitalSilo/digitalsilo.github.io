@@ -25,6 +25,6 @@ title: "Digital Silo plans"
 | Price per Digital Silo instance per year *(USD)* [^3][^4] | Free | $2,499 | $4,199 | Please contact |
 
 [^1]: The docker container is meant to help developers to implement their Digital Silo grains while avoiding Azure resources costs. It is not licensed for commercial usage. Please buy other suitable plans instead. A permanent internet connection is required.
-[^2]: Available at an extra cost. Digital Silo team takes care of creating, managing and maintaining your Digital Silo instance in its Azure account. The cost of Azure resources is extra, billed directly to Digital Silo's Azure subscription account by Microsoft and passed on to the clients who cho0se this plan.
+[^2]: Available at an extra cost. Digital Silo team takes care of creating, managing and maintaining your Digital Silo instance in its Azure account. The cost of Azure resources is extra, billed directly to Digital Silo's Azure subscription account by Microsoft and passed on to the clients who choose this plan.
 [^3]: The prices do not include taxes. The cost of Azure resources is extra and billed directly to your Azure subscription account by Microsoft.
 [^4]: The plans and prices may change at any time with or without advanced notice.
